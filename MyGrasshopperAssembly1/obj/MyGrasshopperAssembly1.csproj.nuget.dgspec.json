@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj",
+        "projectName": "MyGrasshopperAssembly1",
+        "projectPath": "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj",
+        "packagesPath": "C:\\Users\\lukez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
