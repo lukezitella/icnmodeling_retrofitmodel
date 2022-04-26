@@ -21,6 +21,8 @@ namespace MyGrasshopperAssembly1
             "Description",
             "Category", "Subcategory")
         {
+            var cs = new CurveComponents.Component_CircleCNR();
+
         }
 
         /// <summary>

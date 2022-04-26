@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7w1nfXFIwNY/l7cAnhIyGdob86ibLZt+d27FnV0cCTnrNEjVKKmzDEfGCl3Kzz3qhz9RM5GJ3M2WrAXv1RkAxQ==",
+  "dgSpecHash": "FIxRLSisJTjVzoypOWJXdtPf3brJZufFUccTCfviQMhaZBf/EqIAqHV76AjtJfd20q42wWfyP5kAbjpmJRUENA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukez\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj",
+  "projectFilePath": "C:\\Users\\murrj\\Documents\\CUSDGit\\icnmodeling_retrofitmodel\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lukez\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
-    "C:\\Users\\lukez\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+    "C:\\Users\\murrj\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\murrj\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
   ],
   "logs": []
 }

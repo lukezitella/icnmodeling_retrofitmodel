@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1BFIt0ne1A++bTOuBmtltuEP78qwI0Q5CJdm0Tj2akN/dnVbEKm+xh8AiSdOalJRZiR+OgyOorSZ04YDTHBEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murrj\\Documents\\CUSDGit\\icnmodeling_retrofitmodel\\MyRhinoPlugin1\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murrj\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
